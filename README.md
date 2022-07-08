@@ -1,2 +1,2 @@
 # Story2
-My second story
+This is the README for my second story.
